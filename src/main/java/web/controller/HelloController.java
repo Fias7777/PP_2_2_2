@@ -9,7 +9,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 @Controller
-@RequestMapping("/hello")
+@RequestMapping("/")
 public class HelloController {
 
 	@GetMapping
